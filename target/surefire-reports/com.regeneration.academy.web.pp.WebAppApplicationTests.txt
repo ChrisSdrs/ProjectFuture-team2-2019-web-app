@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.regeneration.academy.web.pp.WebAppApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 7.709 s - in com.regeneration.academy.web.pp.WebAppApplicationTests
